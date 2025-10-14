@@ -1,35 +1,80 @@
 ---
-title: "Lorem ipsum"
+title: "Zhaohan Zhang"
 ---
 
 # About Me {#about-me}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi👋I'm Zhaohan, third-year PhD student from EECS Department in Queen Mary University of London (QMUL). I am fortunate to be supervised by [Prof. Ioannis Patras](https://www.eecs.qmul.ac.uk/~ioannisp/) and [Dr. Ziquan Liu](https://sites.google.com/view/ziquanliu). 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a>.
+Before beginning my Ph.D. journey, I obtained my Bachelor’s and Master’s degrees from Xi’an Jiaotong University, where I first became interested in AI and large language models under the insightful and generous guidance of [Prof. Xiaoming Liu](https://gr.xjtu.edu.cn/zh/web/xm.liu), [Prof. Chao Shen](http://gr.xjtu.edu.cn/web/cshen), and [Prof. Xiaohong Guan](https://ieeecss.org/contact/xiaohong-guan).
 
-# 🔥 News {#news}
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# Research Interest {#research-interest}
+My research lies at the intersection of natural language processing and machine learning, with a focus on the reliability, safety, and efficiency in the deployment of Large Language Models (LLMs).
+I am currently exploring:
+* Uncertainty quantification, calibration, and application in LLMs.
+* Effective and robust AI-Generated Content (AIGC) detection methods. 
+* Efficient reasoning scheme.
 
-# 📝 Publications {#publications}
+<h2 id="news">News</h2>
 
-- ***[Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)*** <br>
-  Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee
-  in Conference on Neural Information Processing Systems (**Neurips**), 2023. <br>
-  <a href="https://arxiv.org/abs/2304.08485" class="no-trailing-icon"><img src="https://img.shields.io/badge/arXiv-2304.08485-b31b1b.svg?style=flat-square" alt="Arxiv-2304.08485"/></a><a href="https://github.com/haotian-liu/LLaVA" class="no-trailing-icon"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/haotian-liu/LLaVA?style=flat-square&logo=github&label=GitHub%20Stars&labelColor=black"></a>
+<div style="max-height: 180px; overflow-y: auto; padding: 10px; border-radius: 8px; border: 1px solid #ddd; background-color: #fafafa;">
+  <ul style="margin: 0; padding-left: 20px;">
+    <li><em>2025.09</em>: 🎉🎉 I am invited to give talks in 
+    <a href="https://www.bmva.org/meetings/25-11-05-MultimodalLargeModels.html" target="_blank">
+    BMVA Symposium on Multimodal Large Models
+    </a>. See you in London🇬🇧!</li>
+    <li><em>2025.05</em>: 🎉🎉 2 papers are accepted at ACL2025. See you in Vienna🇦🇹!</li>
+    <li><em>2024.12</em>: 🎉🎉 1 paper is accepted at COLING2025 as oral presentation. See you in Abu Dhabi🇦🇪!</li>
+    <li><em>2024.09</em>: 🎉🎉 1 paper is accepted at NeurIPS2024!</li>
+    <li><em>2024.09</em>: 🎉🎉 1 paper is accepted at EMNLP2024!</li>
+    <li><em>2024.05</em>: 🎉🎉 1 paper is accepted at ACL2024!</li>
+    <li><em>2023.11</em>: 🎉🎉 1 paper is accepted at EMNLP2023. See you in Singapore🇸🇬!</li>
+  </ul>
+</div>
 
-# 🎖 Honors and Awards {#honors-and-awards}
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# Preprints {#preprints}
+- ***[GrACE: A Generative Approach to Better Confidence Elicitation in Large Language Models](https://arxiv.org/pdf/2509.09438)*** <br>
+  **Zhaohan Zhang**, Ziquan Liu, Ioannis Patras
+ <br>
+ <a href="https://arxiv.org/pdf/2509.09438" class="no-trailing-icon"><img src="https://img.shields.io/badge/arXiv-2509.09438-b31b1b.svg?style=flat-square" alt="Arxiv-2509.09438"/></a>
 
-# 📖 Educations {#educations}
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+ - ***[MGT-Prism: Enhancing Domain Generalization for Machine-Generated Text Detection via Spectral Alignment](https://arxiv.org/pdf/2508.13768)*** <br>
+  Shengchao Liu, Xiaoming Liu, Chengzhengxu Li, Zhaohan Zhang, Guoxin Ma, Yu Lan, Shuai Xiao
+ <br>
+ <a href="https://arxiv.org/pdf/2508.13768" class="no-trailing-icon"><img src="https://img.shields.io/badge/arXiv-2508.13768-b31b1b.svg?style=flat-square" alt="Arxiv-2508.13768"/></a>
+  
 
-# 💬 Invited Talks {#invited-talks}
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# Selected Publications {#publications}
 
-# 💻 Internships {#internships}
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- ***[Get confused cautiously: Textual sequence memorization erasure with selective entropy maximization](https://aclanthology.org/2025.coling-main.726.pdf)*** <br>
+  **Zhaohan Zhang**, Ziquan Liu, Ioannis Patras <br>
+  in *COLING2025 (Oral Presentation)*.
+
+- ***[Iron Sharpens Iron: Defending Against Attacks in Machine-Generated Text Detection with Adversarial Training](https://arxiv.org/pdf/2502.12734)*** <br>
+  Yuanfan Li*, **Zhaohan Zhang\***, Chengzhengxu Li*, Chao Shen, Xiaoming Liu <br>
+  in *ACL2025*.
+
+- ***[Coco: Coherence-enhanced machine-generated text detection under low resource with contrastive learning](https://aclanthology.org/2023.emnlp-main.1005.pdf)*** <br>
+  Xiaoming Liu*, **Zhaohan Zhang\***, Yichen Wang*, Hang Pu, Yu Lan, Chao Shen <br>
+  in *EMNLP2023*.
+
+- ***[Concentrate Attention: Towards Domain-Generalizable Prompt Optimization for Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/file/061d5d1b7d97117764f205d4e038f9eb-Paper-Conference.pdf)*** <br>
+Chengzhengxu Li, Xiaoming Liu, **Zhaohan Zhang**, Yichen Wang, Chen Liu, Yu Lan, Chao Shen <br>
+in *NeurIPS2024*.
+
+- ***[Stablept: Towards stable prompting for few-shot learning via input separation](https://aclanthology.org/2024.findings-emnlp.542.pdf)*** <br>
+Xiaoming Liu, Chen Liu, **Zhaohan Zhang**, Chengzhengxu Li, Longtian Wang, Yu Lan, Chao Shen <br>
+in *Findings of EMNLP2024*.
+
+
+# Educations {#educations}
+- *Sep 2023 – present* · **Queen Mary University of London🇬🇧** — Ph.D. Student
+- *Aug 2020 – Jun 2023* · **Xi’an Jiaotong University🇨🇳** — M.Eng. (Graduate with Honor)
+- *Aug 2018 – May 2019* · **University of Wisconsin–Madison🇺🇸** — Visiting Student
+- *Aug 2016 – Jun 2020* · **Xi’an Jiaotong University🇨🇳** — B.Eng. (Graduate with Honor)
+
+# Invited Talks {#invited-talks}
+- *2025.11*. GrACE: A Generative Approach to Better Confidence Elicitation in Large Language Models, in BMVA Symposium on Multimodal Large Models
+
+# Services {#services}
+Reviewer: ACL Rolling Review (2024-), NeurIPS (2023-), ICML (2024-), ICLR (2025-)
