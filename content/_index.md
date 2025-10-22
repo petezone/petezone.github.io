@@ -11,7 +11,7 @@ Before beginning my Ph.D. journey, I obtained my Bachelor’s and Master’s deg
 # Research Interest {#research-interest}
 My research lies at the intersection of natural language processing and machine learning, with a focus on the reliability, safety, and efficiency in the deployment of Large Language Models (LLMs).
 I am currently exploring:
-* Uncertainty quantification, calibration, and application in LLMs.
+* Confidence elicitation, calibration, and its application in LLMs.
 * Effective and robust AI-Generated Content (AIGC) detection methods. 
 * Efficient reasoning scheme.
 
