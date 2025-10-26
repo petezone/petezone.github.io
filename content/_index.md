@@ -42,6 +42,11 @@ I am currently exploring:
   Shengchao Liu, Xiaoming Liu, Chengzhengxu Li, Zhaohan Zhang, Guoxin Ma, Yu Lan, Shuai Xiao
  <br>
  <a href="https://arxiv.org/pdf/2508.13768" class="no-trailing-icon"><img src="https://img.shields.io/badge/arXiv-2508.13768-b31b1b.svg?style=flat-square" alt="Arxiv-2508.13768"/></a>
+
+  - ***[Upfront Chain-of-Thought: A Cooperative Framework for Chain-of-Thought Compression](https://arxiv.org/pdf/2510.08647)*** <br>
+  Chengzhengxu Li, Xiaoming Liu, Zhaohan Zhang, Shaochu Zhang, Shengchao Liu, Guoxin Ma, Yu Lan, Chao Shen
+ <br>
+ <a href="https://arxiv.org/pdf/2510.08647" class="no-trailing-icon"><img src="https://img.shields.io/badge/arXiv-2510.08647-b31b1b.svg?style=flat-square" alt="Arxiv-2510.08647"/></a>
   
 
 # Selected Publications {#publications}
