@@ -19,6 +19,7 @@ I am currently exploring:
 
 <div style="max-height: 180px; overflow-y: auto; padding: 10px; border-radius: 8px; border: 1px solid #ddd; background-color: #fafafa;">
   <ul style="margin: 0; padding-left: 20px;">
+    <li><em>2025.11</em>: 🎉🎉 1 paper is accepted at AAAI2026!</li>
     <li><em>2025.09</em>: 🎉🎉 I am invited to give talks in 
     <a href="https://www.bmva.org/meetings/25-11-05-MultimodalLargeModels.html" target="_blank">
     BMVA Symposium on Multimodal Large Models
@@ -38,15 +39,15 @@ I am currently exploring:
  <br>
  <a href="https://arxiv.org/pdf/2509.09438" class="no-trailing-icon"><img src="https://img.shields.io/badge/arXiv-2509.09438-b31b1b.svg?style=flat-square" alt="Arxiv-2509.09438"/></a>
 
- - ***[MGT-Prism: Enhancing Domain Generalization for Machine-Generated Text Detection via Spectral Alignment](https://arxiv.org/pdf/2508.13768)*** <br>
-  Shengchao Liu, Xiaoming Liu, Chengzhengxu Li, Zhaohan Zhang, Guoxin Ma, Yu Lan, Shuai Xiao
- <br>
- <a href="https://arxiv.org/pdf/2508.13768" class="no-trailing-icon"><img src="https://img.shields.io/badge/arXiv-2508.13768-b31b1b.svg?style=flat-square" alt="Arxiv-2508.13768"/></a>
-
   - ***[Upfront Chain-of-Thought: A Cooperative Framework for Chain-of-Thought Compression](https://arxiv.org/pdf/2510.08647)*** <br>
   Chengzhengxu Li, Xiaoming Liu, Zhaohan Zhang, Shaochu Zhang, Shengchao Liu, Guoxin Ma, Yu Lan, Chao Shen
  <br>
  <a href="https://arxiv.org/pdf/2510.08647" class="no-trailing-icon"><img src="https://img.shields.io/badge/arXiv-2510.08647-b31b1b.svg?style=flat-square" alt="Arxiv-2510.08647"/></a>
+
+  - ***[DEER: Disentangled Mixture of Experts with Instance-Adaptive Routing for Generalizable Machine-Generated Text Detection](https://arxiv.org/abs/2511.01192)*** <br>
+  Guoxin Ma, Xiaoming Liu, Zhanhan Zhang, Chengzhengxu Li, Shengchao Liu, Yu Lan
+ <br>
+ <a href="https://arxiv.org/abs/2511.01192" class="no-trailing-icon"><img src="https://img.shields.io/badge/arXiv-2511.01192-b31b1b.svg?style=flat-square" alt="Arxiv-2511.01192"/></a>
   
 
 # Selected Publications {#publications}
@@ -62,6 +63,10 @@ I am currently exploring:
 - ***[Coco: Coherence-enhanced machine-generated text detection under low resource with contrastive learning](https://aclanthology.org/2023.emnlp-main.1005.pdf)*** <br>
   Xiaoming Liu*, **Zhaohan Zhang\***, Yichen Wang*, Hang Pu, Yu Lan, Chao Shen <br>
   in *EMNLP2023*.
+
+- ***[MGT-Prism: Enhancing Domain Generalization for Machine-Generated Text Detection via Spectral Alignment](https://arxiv.org/pdf/2508.13768)*** <br>
+  Shengchao Liu, Xiaoming Liu, Chengzhengxu Li, **Zhaohan Zhang**, Guoxin Ma, Yu Lan, Shuai Xiao <br>
+  in *AAAI2026*.
 
 - ***[Concentrate Attention: Towards Domain-Generalizable Prompt Optimization for Language Models](https://proceedings.neurips.cc/paper_files/paper/2024/file/061d5d1b7d97117764f205d4e038f9eb-Paper-Conference.pdf)*** <br>
 Chengzhengxu Li, Xiaoming Liu, **Zhaohan Zhang**, Yichen Wang, Chen Liu, Yu Lan, Chao Shen <br>
