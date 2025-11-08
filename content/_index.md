@@ -39,12 +39,12 @@ I am currently exploring:
  <br>
  <a href="https://arxiv.org/pdf/2509.09438" class="no-trailing-icon"><img src="https://img.shields.io/badge/arXiv-2509.09438-b31b1b.svg?style=flat-square" alt="Arxiv-2509.09438"/></a>
 
-  - ***[Upfront Chain-of-Thought: A Cooperative Framework for Chain-of-Thought Compression](https://arxiv.org/pdf/2510.08647)*** <br>
+- ***[Upfront Chain-of-Thought: A Cooperative Framework for Chain-of-Thought Compression](https://arxiv.org/pdf/2510.08647)*** <br>
   Chengzhengxu Li, Xiaoming Liu, Zhaohan Zhang, Shaochu Zhang, Shengchao Liu, Guoxin Ma, Yu Lan, Chao Shen
  <br>
  <a href="https://arxiv.org/pdf/2510.08647" class="no-trailing-icon"><img src="https://img.shields.io/badge/arXiv-2510.08647-b31b1b.svg?style=flat-square" alt="Arxiv-2510.08647"/></a>
 
-  - ***[DEER: Disentangled Mixture of Experts with Instance-Adaptive Routing for Generalizable Machine-Generated Text Detection](https://arxiv.org/abs/2511.01192)*** <br>
+- ***[DEER: Disentangled Mixture of Experts with Instance-Adaptive Routing for Generalizable Machine-Generated Text Detection](https://arxiv.org/abs/2511.01192)*** <br>
   Guoxin Ma, Xiaoming Liu, Zhanhan Zhang, Chengzhengxu Li, Shengchao Liu, Yu Lan
  <br>
  <a href="https://arxiv.org/abs/2511.01192" class="no-trailing-icon"><img src="https://img.shields.io/badge/arXiv-2511.01192-b31b1b.svg?style=flat-square" alt="Arxiv-2511.01192"/></a>
