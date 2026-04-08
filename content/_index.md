@@ -19,7 +19,7 @@ I am currently exploring:
 
 <div style="max-height: 180px; overflow-y: auto; padding: 10px; border-radius: 8px; border: 1px solid #ddd; background-color: #fafafa;">
   <ul style="margin: 0; padding-left: 20px;">
-    <li><em>2025.11</em>: 🎉🎉 3 paper are accepted at ACL2026!</li>
+    <li><em>2026.04</em>: 🎉🎉 3 papers are accepted at ACL2026!</li>
     <li><em>2025.11</em>: 🎉🎉 1 paper is accepted at AAAI2026!</li>
     <li><em>2025.09</em>: 🎉🎉 I am invited to give talks in 
     <a href="https://www.bmva.org/meetings/25-11-05-MultimodalLargeModels.html" target="_blank">
@@ -46,12 +46,12 @@ I am currently exploring:
 - ***[Confidence should be calibrated more than one turn deep](https://arxiv.org/pdf/2604.05397)*** <br>
   **Zhaohan Zhang**, Chengzhengxu Li, Xiaoming Liu, Chao Shen, Ziquan Liu, Ioannis Patras
  <br>
- in *ACL2026*
+ in *ACL2026*.
 
 - ***[GrACE: A Generative Approach to Better Confidence Elicitation and Efficient Test-Time Scaling in Large Language Models](https://arxiv.org/pdf/2509.09438)*** <br>
   **Zhaohan Zhang**, Ziquan Liu, Ioannis Patras
  <br>
- in *ACL2026*
+ in *ACL2026*.
 
 - ***[Get confused cautiously: Textual sequence memorization erasure with selective entropy maximization](https://aclanthology.org/2025.coling-main.726.pdf)*** <br>
   **Zhaohan Zhang**, Ziquan Liu, Ioannis Patras <br>
