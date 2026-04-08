@@ -19,6 +19,7 @@ I am currently exploring:
 
 <div style="max-height: 180px; overflow-y: auto; padding: 10px; border-radius: 8px; border: 1px solid #ddd; background-color: #fafafa;">
   <ul style="margin: 0; padding-left: 20px;">
+    <li><em>2025.11</em>: 🎉🎉 3 paper are accepted at ACL2026!</li>
     <li><em>2025.11</em>: 🎉🎉 1 paper is accepted at AAAI2026!</li>
     <li><em>2025.09</em>: 🎉🎉 I am invited to give talks in 
     <a href="https://www.bmva.org/meetings/25-11-05-MultimodalLargeModels.html" target="_blank">
@@ -34,16 +35,6 @@ I am currently exploring:
 </div>
 
 # Preprints {#preprints}
-- ***[GrACE: A Generative Approach to Better Confidence Elicitation in Large Language Models](https://arxiv.org/pdf/2509.09438)*** <br>
-  **Zhaohan Zhang**, Ziquan Liu, Ioannis Patras
- <br>
- <a href="https://arxiv.org/pdf/2509.09438" class="no-trailing-icon"><img src="https://img.shields.io/badge/arXiv-2509.09438-b31b1b.svg?style=flat-square" alt="Arxiv-2509.09438"/></a>
-
-- ***[Upfront Chain-of-Thought: A Cooperative Framework for Chain-of-Thought Compression](https://arxiv.org/pdf/2510.08647)*** <br>
-  Chengzhengxu Li, Xiaoming Liu, Zhaohan Zhang, Shaochu Zhang, Shengchao Liu, Guoxin Ma, Yu Lan, Chao Shen
- <br>
- <a href="https://arxiv.org/pdf/2510.08647" class="no-trailing-icon"><img src="https://img.shields.io/badge/arXiv-2510.08647-b31b1b.svg?style=flat-square" alt="Arxiv-2510.08647"/></a>
-
 - ***[DEER: Disentangled Mixture of Experts with Instance-Adaptive Routing for Generalizable Machine-Generated Text Detection](https://arxiv.org/abs/2511.01192)*** <br>
   Guoxin Ma, Xiaoming Liu, Zhanhan Zhang, Chengzhengxu Li, Shengchao Liu, Yu Lan
  <br>
@@ -52,9 +43,24 @@ I am currently exploring:
 
 # Selected Publications {#publications}
 
+- ***[Confidence should be calibrated more than one turn deep](https://arxiv.org/pdf/2604.05397)*** <br>
+  **Zhaohan Zhang**, Chengzhengxu Li, Xiaoming Liu, Chao Shen, Ziquan Liu, Ioannis Patras
+ <br>
+ in *ACL2026*
+
+- ***[GrACE: A Generative Approach to Better Confidence Elicitation and Efficient Test-Time Scaling in Large Language Models](https://arxiv.org/pdf/2509.09438)*** <br>
+  **Zhaohan Zhang**, Ziquan Liu, Ioannis Patras
+ <br>
+ in *ACL2026*
+
 - ***[Get confused cautiously: Textual sequence memorization erasure with selective entropy maximization](https://aclanthology.org/2025.coling-main.726.pdf)*** <br>
   **Zhaohan Zhang**, Ziquan Liu, Ioannis Patras <br>
   in *COLING2025 (Oral Presentation)*.
+
+- ***[Can Reasoning Path still be Effective as Input?
+Bridging Post-Reasoning to Chain-of-Thought Compression](https://arxiv.org/pdf/2510.08647?)*** <br>
+  Chengzhengxu Li, Xiaoming Liu, **Zhaohan Zhang**, Shaochu Zhang, Shengchao Liu, Guoxin Ma, Yu Lan, Chao Shen <br>
+  in *ACL2026*.
 
 - ***[Iron Sharpens Iron: Defending Against Attacks in Machine-Generated Text Detection with Adversarial Training](https://arxiv.org/pdf/2502.12734)*** <br>
   Yuanfan Li*, **Zhaohan Zhang\***, Chengzhengxu Li*, Chao Shen, Xiaoming Liu <br>
