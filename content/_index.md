@@ -19,6 +19,7 @@ I am currently exploring:
 
 <div style="max-height: 180px; overflow-y: auto; padding: 10px; border-radius: 8px; border: 1px solid #ddd; background-color: #fafafa;">
   <ul style="margin: 0; padding-left: 20px;">
+    <li><em>2026.09</em>: 🎉🎉 2 papers are accepted at NeurIPS2026!</li>
     <li><em>2026.04</em>: 🎉🎉 3 papers are accepted at ACL2026!</li>
     <li><em>2025.11</em>: 🎉🎉 1 paper is accepted at AAAI2026!</li>
     <li><em>2025.09</em>: 🎉🎉 I am invited to give talks in 
@@ -42,6 +43,10 @@ I am currently exploring:
   
 
 # Selected Publications {#publications}
+- ***[When Confidence Rises Too Early: Detecting Shortcut Reasoning via Premature Answer Commitment](https://arxiv.org/pdf/2609.35074v1)*** <br>
+  **Zhaohan Zhang**, Junjie Liu, Chengzhengxu Li, Chen Shen, Xiaoming Liu, Chao Shen, Jieping Ye, Ziquan Liu, Ioannis Patras
+ <br>
+ in *NeurIPS2026*.
 
 - ***[Confidence should be calibrated more than one turn deep](https://arxiv.org/pdf/2604.05397)*** <br>
   **Zhaohan Zhang**, Chengzhengxu Li, Xiaoming Liu, Chao Shen, Ziquan Liu, Ioannis Patras
@@ -56,6 +61,10 @@ I am currently exploring:
 - ***[Get confused cautiously: Textual sequence memorization erasure with selective entropy maximization](https://aclanthology.org/2025.coling-main.726.pdf)*** <br>
   **Zhaohan Zhang**, Ziquan Liu, Ioannis Patras <br>
   in *COLING2025 (Oral Presentation)*.
+
+- ***Spark: Path-Aware Experiential Self-Evolution for VLMs Spatiotemporal Reasoning*** <br>
+  Chengzhengxu Li, Xiaoming Liu, **Zhaohan Zhang**, Yu Lan, Zicheng Zhao, Bingxiang Wang, Cong Wang, Chao Shen <br>
+  in *NeurIPS2026*.
 
 - ***[Can Reasoning Path still be Effective as Input?
 Bridging Post-Reasoning to Chain-of-Thought Compression](https://arxiv.org/pdf/2510.08647?)*** <br>
