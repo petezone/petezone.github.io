@@ -9,16 +9,19 @@ Hi👋I'm Zhaohan, third-year PhD student from EECS Department in Queen Mary Uni
 Before beginning my Ph.D. journey, I obtained my Bachelor’s and Master’s degrees from Xi’an Jiaotong University, where I first became interested in AI and large language models under the insightful and generous guidance of [Prof. Xiaoming Liu](https://gr.xjtu.edu.cn/zh/web/xm.liu), [Prof. Chao Shen](http://gr.xjtu.edu.cn/web/cshen), and [Prof. Xiaohong Guan](https://ieeecss.org/contact/xiaohong-guan).
 
 # Research Interest {#research-interest}
-My research lies at the intersection of natural language processing and machine learning, with a focus on the reliability, safety, and efficiency in the deployment of Large Language Models (LLMs).
+My research focuses on advancing the capabilities, reliability, and efficiency of Large Language Models (LLMs), with a particular interest in reinforcement learning, reward modeling, and agentic intelligence. I am passionate about developing LLM-based agents that can tackle complex, open-ended tasks which lack well-defined, objective criteria for evaluating success. I am also interested in improving the reliability, safety, and efficiency of LLMs in real-world deployment.
 I am currently exploring:
-* Confidence elicitation, calibration, and its application in LLMs.
-* Effective and robust AI-Generated Content (AIGC) detection methods. 
-* Efficient reasoning scheme.
+* **Reinforcement Learning for Open-ended and Agentic Tasks:** Developing reinforcement learning methods for creative and complex agentic tasks.
+* **Reward Modeling:** Designing reward models for human-preference-aligned evaluation and optimization of LLMs.
+* **Confidence Elicitation and Calibration:** Exploring methods for eliciting and calibrating model confidence, and leveraging confidence signals to improve LLM training and inference.
+* **AI-Generated Content Detection:** Developing effective and robust methods for detecting AI-generated content (AIGC). 
+* **Efficient Reasoning:** Exploring efficient reasoning strategies and inference mechanisms for LLMs.
 
 <h2 id="news">News</h2>
 
 <div style="max-height: 180px; overflow-y: auto; padding: 10px; border-radius: 8px; border: 1px solid #ddd; background-color: #fafafa;">
   <ul style="margin: 0; padding-left: 20px;">
+    <li><em>2026.11</em>: 🎉🎉 1 paper is accepted at TMLR!</li>
     <li><em>2026.09</em>: 🎉🎉 2 papers are accepted at NeurIPS2026!</li>
     <li><em>2026.04</em>: 🎉🎉 3 papers are accepted at ACL2026!</li>
     <li><em>2025.11</em>: 🎉🎉 1 paper is accepted at AAAI2026!</li>
@@ -78,6 +81,10 @@ Bridging Post-Reasoning to Chain-of-Thought Compression](https://arxiv.org/pdf/2
 - ***[Coco: Coherence-enhanced machine-generated text detection under low resource with contrastive learning](https://aclanthology.org/2023.emnlp-main.1005.pdf)*** <br>
   Xiaoming Liu*, **Zhaohan Zhang\***, Yichen Wang*, Hang Pu, Yu Lan, Chao Shen <br>
   in *EMNLP2023*.
+
+- ***[Is the Prediction Set Size Well-Calibrated? A Closer Look at Uncertainty in Conformal Prediction](https://openreview.net/forum?id=lv4gVtbve3)*** <br>
+  Ziquan Liu*, **Zhaohan Zhang**, Feiyu Chen, Yan Yan, Ioannis Patras, Shaogang Gong, Antoni B. Chan <br>
+  in *TMLR*.
 
 - ***[MGT-Prism: Enhancing Domain Generalization for Machine-Generated Text Detection via Spectral Alignment](https://arxiv.org/pdf/2508.13768)*** <br>
   Shengchao Liu, Xiaoming Liu, Chengzhengxu Li, **Zhaohan Zhang**, Guoxin Ma, Yu Lan, Shuai Xiao <br>
