@@ -40,7 +40,7 @@ I am currently exploring:
 
 # Preprints {#preprints}
 - ***[DEER: Disentangled Mixture of Experts with Instance-Adaptive Routing for Generalizable Machine-Generated Text Detection](https://arxiv.org/abs/2511.01192)*** <br>
-  Guoxin Ma, Xiaoming Liu, Zhanhan Zhang, Chengzhengxu Li, Shengchao Liu, Yu Lan
+  Guoxin Ma, Xiaoming Liu, Hongyang Chen, Chengzhengxu Li, Zhaohan Zhang, Shengchao Liu, Yu Lan, Cong Wang, Chao Shen
  <br>
  <a href="https://arxiv.org/abs/2511.01192" class="no-trailing-icon"><img src="https://img.shields.io/badge/arXiv-2511.01192-b31b1b.svg?style=flat-square" alt="Arxiv-2511.01192"/></a>
   
